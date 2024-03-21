@@ -1,9 +1,9 @@
 name: flutter_lints_module
 description: "flutter_lints JuneFlow Module"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/flutter_lints_module
 
-version: 0.0.1+1
+version: 0.0.1+2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

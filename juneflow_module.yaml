@@ -3,7 +3,8 @@
 # Copies the specified files or folders to the user's project from the given location.
 # This feature allows for easy reuse of specific resources.
 ############################################
-#copy_path:
+copy_path:
+  - analysis_options.yaml
 # - lib/util/_/initial_app/build_app_widget/build_material_app/flutter_lints_module
 # - lib/util/_/initial_app/build_app_widget/build_my_app/flutter_lints_module
 # - lib/util/_/initial_app/build_app_widget/build_run_app/flutter_lints_module
