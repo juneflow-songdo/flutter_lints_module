@@ -1,3 +1,4 @@
+#@add
 include: package:flutter_lints/flutter.yaml
 
 analyzer:
