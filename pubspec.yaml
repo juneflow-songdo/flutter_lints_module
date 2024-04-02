@@ -1,9 +1,9 @@
 name: flutter_lints_module
-description: "flutter_lints JuneFlow Module"
+description: "It will add the cupertino_icons package to the project and add the necessary settings to the project."
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/flutter_lints_module
 
-version: 0.0.1+7
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
