@@ -3,7 +3,7 @@ description: "It will add the cupertino_icons package to the project and add the
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/flutter_lints_module
 
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
